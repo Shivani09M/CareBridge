@@ -19,3 +19,4 @@ CareBridge aims to help patients record recovery updates and help healthcare pro
 CareBridge is a prototype for educational purposes. It does not diagnose medical conditions or replace professional medical advice. Development will use synthetic patient data.
 ## Team
 Nexovara
+https://carebridge-x5sx26oueg4riyrutgk89h.streamlit.app/ 
